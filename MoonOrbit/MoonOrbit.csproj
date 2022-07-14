@@ -70,6 +70,8 @@
     <Content Include="Common\initShaders.js" />
     <Content Include="Common\MV.js" />
     <Content Include="Common\webgl-utils.js" />
+    <Content Include="images\earth.png" />
+    <Content Include="images\moon.png" />
     <Content Include="MoonOrbit.html" />
     <Content Include="MoonOrbit.js" />
     <Content Include="Web.config" />
